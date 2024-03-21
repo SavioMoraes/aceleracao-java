@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/meuPrimeiroProjeto.iml" filepath="$PROJECT_DIR$/meuPrimeiroProjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/estrutura-de-repeticao.iml" filepath="$PROJECT_DIR$/.idea/estrutura-de-repeticao.iml" />
     </modules>
   </component>
 </project>
