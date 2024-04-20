@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba8ca357-9758-44d3-8775-414094bc0792" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../2.fundamentos-java/2.1-hello-world/aceleracao-java/aceleracao-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2-Heranca_e_Polimorfismo/Heranca/src/main/java/com/betrybe/rpg/Barbarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2-Heranca_e_Polimorfismo/Heranca/src/main/java/com/betrybe/rpg/Cleric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2-Heranca_e_Polimorfismo/Heranca/src/main/java/com/betrybe/rpg/Mage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2-Heranca_e_Polimorfismo/Heranca/src/main/java/com/betrybe/rpg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2-Heranca_e_Polimorfismo/Heranca/src/main/java/com/betrybe/rpg/PlayableCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2-Heranca_e_Polimorfismo/Heranca/src/main/java/com/betrybe/rpg/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.fundamentos-java/2.1-hello-world/aceleracao-java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.fundamentos-java/2.1-hello-world/aceleracao-java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.fundamentos-java/2.4-gerenciamentos-de-dependencias/Meu Projeto Maven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.fundamentos-java/2.4-gerenciamentos-de-dependencias/Meu Projeto Maven/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/.idea/3.1-construtores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Construtores/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Construtores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Construtores/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Construtores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Construtores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Construtores/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Construtores/src/main/java/com/betrybe/eletronics/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Construtores/src/main/java/com/betrybe/eletronics/Television.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Exercicios/.idea/Exercicios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Exercicios/Carro/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Exercicios/Carro/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Exercicios/Carro/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Exercicios/Carro/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Exercicios/Carro/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Exercicios/Carro/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Exercicios/Carro/src/main/java/com/betrybe/carro/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1-construtores/Exercicios/Carro/src/main/java/com/betrybe/carro/Carro.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2fNhbhQ51OpwPVI6BYX9i6CixKB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba8ca357-9758-44d3-8775-414094bc0792" name="Changes" comment="" />
+      <created>1713647517177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713647517177</updated>
+    </task>
+    <servers />
+  </component>
+</project>
